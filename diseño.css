@@ -1,0 +1,37 @@
+     .Cuadrado
+     {
+ 
+            width: 500px;
+            height: 500px;
+            color: rgb(0, 0, 0);
+            padding: 10px;
+            font-size: 800 px;
+             text-align: center;
+             line-height: 500px;
+margin: 1px;
+font-family: 'Lucida Sans';
+    }
+        .Negro 
+        {
+        background-color: rgb(220, 245, 0);
+        }
+        .Azul
+        {
+         background-color:rgb(14, 150, 66) ;
+        }
+        .Amarillo
+        {
+        background-color: rgb(221, 73, 5);
+        }
+        .Rojo
+        {
+        background-color: rgb(12, 164, 190);
+        }
+        .Morado
+        {
+        background-color: rgb(130, 59, 223);
+        }
+        .Verde
+        {
+        background-color: rgb(219, 11, 28);
+        }
